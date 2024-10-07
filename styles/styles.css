@@ -1,0 +1,16 @@
+body {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#cat-container img {
+  max-width: 300px;
+  margin-top: 20px;
+}
