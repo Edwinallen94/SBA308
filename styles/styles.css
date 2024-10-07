@@ -10,6 +10,7 @@ body {
   text-align: center;
 }
 
+/* centering the cats */
 #cat-container img {
   max-width: 300px;
   margin-top: 20px;
